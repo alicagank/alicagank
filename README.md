@@ -1,4 +1,4 @@
-## ⭐️about-me⭐️
+## about-me
 
 <p align="right">
   <img src="https://alicagankaya.com/wp-content/uploads/2025/08/cropped-icon-logo.png" width="100" height="100" align="left">
