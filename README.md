@@ -42,5 +42,5 @@ technical_background:
   ]
   
 currently_learning: ["Statistics for pupillometry & eye-tracking"]
-hobbies: ["Skateboarding", "Playing the guitar & violin", "Cats", "Photography", "Art & digital design"]
+hobbies: ["Skateboarding", "Playing the guitar", "Cats", "Photography"]
 ```
