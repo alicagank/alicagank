@@ -4,7 +4,7 @@
   <img src="https://alicagankaya.com/wp-content/uploads/2025/08/cropped-icon-logo.png" width="100" height="100" align="left">
 </p>
 
-If you want to get to know me better or contact me, kindly use my website!
+If you want to get to know me better or contact me, kindly use my website! I am very open to all sorts of collaborations and questions. :)
 
 ```yaml
 name: Ali Çağan Kaya
