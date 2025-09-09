@@ -1,5 +1,11 @@
 ## ⭐️about-me⭐️
 
+<p align="right">
+  <img src="https://alicagankaya.com/wp-content/uploads/2025/08/cropped-icon-logo.png" width="100" height="100" align="left">
+</p>
+
+If you want to get to know me better or contact me, kindly use my website!
+
 ```yaml
 name: Ali Çağan Kaya
 located_in: Ankara, Türkiye
@@ -36,5 +42,5 @@ technical_background:
   ]
   
 currently_learning: ["Statistics for pupillometry & eye-tracking"]
-hobbies: ["Skateboarding", "Playing the guitar & violin", "Cats", "Photography", "Art & digital design", "Cinema", "Comedy"]
+hobbies: ["Skateboarding", "Playing the guitar & violin", "Cats", "Photography", "Art & digital design"]
 ```
