@@ -13,7 +13,7 @@ website: https://alicagankaya.com
 current_role: Research Intern & Undergraduate Student
 education:
   [
-    "B.A. in English Linguistics (in progress) – Hacettepe University",
+    TODO: "B.A. in English Linguistics – Hacettepe University",
     "Research Intern – Ankara University Brain Research Center (AU-BRC)",
     "Researcher – Neuroscience and Neurotechnology Center of Excellence (NÖROM)",
   ]
