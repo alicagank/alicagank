@@ -4,43 +4,64 @@
   <img src="https://alicagankaya.com/wp-content/uploads/2025/08/cropped-icon-logo.png" width="100" height="100" align="left">
 </p>
 
-If you want to get to know me better or contact me, kindly use my website! I am very open to all sorts of collaborations and questions. :)
+To learn more about my work or to contact me, please visit my website. I am always open to collaborations and new ideas. :)
 
 ```yaml
 name: Ali Çağan Kaya
-located_in: Ankara, Türkiye
+preferred_name: Çağan
+IPA: "[t͡ʃaːn]"
+located_in: Ankara, Türkiye / Paris, France
 website: https://alicagankaya.com
-current_role: Research Intern & Undergraduate Student
+
 education:
   [
-    TODO: "B.A. in English Linguistics – Hacettepe University",
-    "Research Intern – Ankara University Brain Research Center (AU-BRC)",
-    "Researcher – Neuroscience and Neurotechnology Center of Excellence (NÖROM)",
-  ]
-affiliations: 
-  [
-    "President – Hacettepe University Linguistics Community (2025–2026)",
+    "TODO: M.A. in Theoretical and Experimental Linguistics and Phonetics (TELPh), Université Paris Cité",
+    "B.A. in English Linguistics – Hacettepe University",
   ]
 
-fields_of_interests:
+previous_experience:
   [
-    "Phonetics & Phonology",
-    "Cognitive Linguistics",
-    "Computational Linguistics",
+    "Research Intern, Ankara University Brain Research Center (AU-BRC)",
+    "Researcher, Neuroscience and Neurotechnology Center of Excellence (NÖROM)",
+  ]
+
+previous_affiliations:
+  [
+    "President, Hacettepe University Linguistics Community (2025–2026)",
+    "Academic Coordinator, Hacettepe University Linguistics Community (2024–2025)",
+    "Editor-in-Chief, Hacettepe University Linguistics Community website",
+  ]
+
+research_interests:
+  [
+    "Experimental Phonetics & Phonology",
     "Psycholinguistics",
-    "Corpus Linguistics",
+    "Speech Processing",
+    "Computational Linguistics",
     "Neurolinguistics",
   ]
 
 technical_background:
   [
-    "Developer of VowSpace (vowel formant analysis & visualization tool)",
-    "Developer of Praanscribe (automatic transcription & TextGrid generation tool)",
-    "Experience with Python, R, Web",
-    "Experimental design and alayses in phonetics & psycholinguistics",
-    "Data preprocessing & statistical modeling (LMMs, GAMMs, accuracy/RT analysis)",
+    "Developer of VowSpace, a vowel formant analysis and visualisation application published in JOSS",
+    "Developer of Praanscribe, an automatic transcription and TextGrid generation tool",
+    "Speech annotation and analysis using Praat scripting",
+    "Experimental design and analysis",
+    "Statistical modelling using LMMs, GLMMs, and GAMMs",
   ]
-  
-currently_learning: ["Statistics for pupillometry & eye-tracking"]
-hobbies: ["Skateboarding", "Playing the guitar", "Cats", "Photography"]
+
+currently_learning:
+  [
+    "French",
+  ]
+
+hobbies:
+  [
+    "Photography",
+    "Playing the guitar and harmonica",
+    "Fishing",
+    "Travelling",
+    "Skateboarding",
+    "Cats",
+  ]
 ```
