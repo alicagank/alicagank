@@ -9,7 +9,7 @@ To learn more about my work or to contact me, please visit my website. I am alwa
 ```yaml
 name: Ali Çağan Kaya
 preferred_name: Çağan
-IPA: "[t͡ʃaːn]"
+IPA: [t͡ʃaːn]
 located_in: Ankara, Türkiye / Paris, France
 website: https://alicagankaya.com
 
