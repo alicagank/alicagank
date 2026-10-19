@@ -15,7 +15,7 @@ website: https://alicagankaya.com
 
 education:
   [
-    "TODO: M.A. in Theoretical and Experimental Linguistics and Phonetics (TELPh), Université Paris Cité",
+    "TODO: M.A. in Theoretical and Experimental Linguistics and Phonetics (TELPh), Paris Graduate School of Linguistics, Université Paris Cité",
     "B.A. in English Linguistics – Hacettepe University",
   ]
 
