@@ -15,7 +15,8 @@ website: https://alicagankaya.com
 
 education:
   [
-    "TODO: M.A. in Theoretical and Experimental Linguistics and Phonetics (TELPh), Paris Graduate School of Linguistics, Université Paris Cité",
+    "TODO: M.A. in Theoretical and Experimental Linguistics and Phonetics (TELPh), Paris Graduate School of Linguistics, 
+    Université Paris Cité",
     "B.A. in English Linguistics – Hacettepe University",
   ]
 
@@ -43,7 +44,7 @@ research_interests:
 
 technical_background:
   [
-    "Developer of VowSpace, a vowel formant analysis and visualisation application published in JOSS",
+    "Developer of VowSpace, a vowel formant analysis application for phonetic research",
     "Developer of Praanscribe, an automatic transcription and TextGrid generation tool",
     "Speech annotation and analysis using Praat scripting",
     "Experimental design and analysis",
