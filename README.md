@@ -10,7 +10,7 @@ To learn more about my work or to contact me, please visit my website. I am alwa
 name: Ali Çağan Kaya
 preferred_name: Çağan
 IPA: [t͡ʃaːn]
-located_in: Ankara, Türkiye / Paris, France
+located_in: Paris, France
 website: https://alicagankaya.com
 
 education:
